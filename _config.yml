@@ -352,8 +352,6 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-kramdown:
-  math_engine: mathjax
 
 # HTML Compression
 # - https://jch.penibelst.de/
