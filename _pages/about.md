@@ -19,10 +19,10 @@ The main body of my work focuses on the development of parameter estimation tech
 ## Advancements in the Unscented Kalman Filter
 The Unscented Kalman Filter is traditionally used for state estimation in control theory. While it is a Bayesian-adjacent method, it has historically been ill-conditioned for parameter estimation. 
 
-Previous implementation algorithms struggled due to rank-deficiency in the \\P_{xy}\\ and \\P_{yy}\\ matrices, which makes solving the system uniquely impossible. This led to major issues with the stability and performance of the algorithm. 
+Previous implementation algorithms struggled due to rank-deficiency in the \\(P_{xy}\\) and \\(P_{yy}\\) matrices, which makes solving the system uniquely impossible. This led to major issues with the stability and performance of the algorithm. 
 
 ### Key Improvements:
-* **The Kalman Interval:** The introduction of the interval \\ \tau_k \\ served as the first significant major improvement to stability.
+* **The Kalman Interval:** The introduction of the interval \\(\tau_k\\) served as the first significant major improvement to stability.
 * **Rank Restoration:** My modifications resolved the rank-deficiency issues, leading to the full practical identifiability of a **10-parameter model** from just **4 continuous observations**.
 * **Efficiency:** These optimisations provided a **100x performance increase**, moving the theory closer to real-time clinical utility.
 
