@@ -36,9 +36,9 @@ Previous implementation algorithms struggled due to rank-deficiency in the $P_{x
 ---
 
 ## Technical Skills
-**Domain Expertise**: Inverse Problems, Parameter Estimation, Statistical Physics, Information Theory 
-**Modelling**: Cardiovascular Digital Twins, Biological Systems, Physical Systems, Numerical Modelling 
-**Programming**: **Julia** (Fluent), **Python** (Competent), **R, C++, Matlab** (Familiar) |
+* **Domain Expertise**: Inverse Problems, Parameter Estimation, Statistical Physics, Information Theory 
+* **Modelling**: Cardiovascular Digital Twins, Biological Systems, Physical Systems, Numerical Modelling
+* **Programming**: **Julia** (Fluent), **Python** (Competent), **R, C++, Matlab** (Familiar) 
 
 ---
 
