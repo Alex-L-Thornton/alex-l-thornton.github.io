@@ -22,6 +22,15 @@ The modifications provided a 100x performance increase and led to the full pract
 The introduction of the Kalman interval \tau_k was the first significant major improvement. 
 
 
+Publications
+======
+** BREAKING RANK - A NOVEL UNSCENTED KALMAN FILTER FOR
+PARAMETER ESTIMATIONS OF A LUMPED-PARAMETER
+CARDIOVASCULAR MODEL **
+Alex Thornton, Prof Ian Halliday, Dr Harry Saxton, Dr Xu Xu 
+https://arxiv.org/pdf/2601.02390
+
+
 Key Skills 
 ======
 - Physical Intuition
