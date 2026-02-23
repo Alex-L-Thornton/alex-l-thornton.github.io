@@ -41,3 +41,5 @@ Key Skills
 Academic Background and Interests
 ======
 
+I completed a bachelours in physics from the University of Birmingham. I completed a 6-month-long project on machine learning and robotics. I then completed a master's in Data Science from the University of Leeds. My thesis was on Complexity theory. I now do a PhD in Theoretical Computational Medicine at the University of Sheffield. 
+
