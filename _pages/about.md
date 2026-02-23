@@ -22,21 +22,21 @@ The modifications provided a 100x performance increase and led to the full pract
 The introduction of the Kalman interval \tau_k was the first significant major improvement. 
 
 
-Valve Functions and Valve Disease 
-------
-
-Pulmonary Hypertension
-------
-
-Advisory Work 
-------
-
-Clinical Consultation
-------
-
-
 Key Skills 
 ======
+- Physical Intuition
+- Numerical Modelling
+- Statistical Physics
+- Modelling Biological Systems
+- Modelling Physical Systems
+- Information-Theoretic Approach to Problems
+- Inverse Problems
+- Parameter Estimation
+
+- Programming Languages
+  - Fluent in Julia
+  - Competent in Python
+  - Familiar with R, C++, Matlab
 
 Academic Background and Interests
 ======
